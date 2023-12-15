@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as an accountant
-- 🌱 I’m currently learning master of computer application
+- 🔭 I’m currently working on a Mern stack project
+- 🌱 completed master of computer application
 - 👯 I’m looking to collaborate on projects and learning etc
 - 🤔 I’m looking for help with webdeveloping tools
 - 💬 Ask me about other than my passwords 
 - 📫 How to reach me: gokulrvm4@gamil.com
-- 😄 Pronouns: sleeper cell
+- 😄 Pronouns: He
 - ⚡ Fun fact: life bugs may not be intrepretable
 -->

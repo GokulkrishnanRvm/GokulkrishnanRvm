@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 FUll-stack Developer
+- 🔭 Full-stack Developer
 - 🌱 completed master of computer application
 - 👯 I’m looking to collaborate on projects and learning etc
 - 🤔 I’m looking for help with webdeveloping tools
